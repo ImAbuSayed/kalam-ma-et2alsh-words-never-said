@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kalam-ma-et2alsh-words-never-said/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Kalam Ma Et2alsh – Words never said](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
