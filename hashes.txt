@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kalam Ma Et2alsh – Words never said
+
+This log tracks the cryptographic history and versioning for the song **Kalam Ma Et2alsh – Words never said** (kalam-ma-et2alsh-words-never-said).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T04:03:31.855719 | `v1` | `0f022a7fd8a580d60dc716282c141b29862dcc91baf891201a49175ef450aba0` | `bffd756d6d25c44efc845ed40ace32403e47af3ec6003c22fa5cf2601c5a8551` | `2026-05-09_kalam-ma-et2alsh-words-never-said-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
